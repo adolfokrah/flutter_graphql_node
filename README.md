@@ -23,6 +23,6 @@ and run `pub get`
 
 in `lib/global_veriables_controller.dart`
 
-replace `host: "http://xxxxxxxxx:xxxx"` with the host of url of your graphQl backend
+replace `host: "http://xxxxxxxxx:xxxx/graphql"` with the host of url of your graphQl backend
 
 and run `flutter run`
