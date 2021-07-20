@@ -6,7 +6,7 @@ class Controller extends GetxController{
   var authors = [].obs;
   var selectedAuhtor = 0.obs;
 
-  GraphQLServices graphQL = GraphQLServices(host: "http://192.168.8.110:5000/graphql");
+  GraphQLServices graphQL = GraphQLServices(host: "http://xxxxxxxxxxxxx:xxxx/graphql");
 
   @override
   void onInit(){
